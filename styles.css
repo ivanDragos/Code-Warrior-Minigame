@@ -1,4 +1,4 @@
-/* Reset default styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -14,7 +14,7 @@ body, html {
   overflow: hidden;
 }
 
-/* Start Screen */
+
 .start-screen {
   display: flex;
   flex-direction: column;
@@ -58,7 +58,7 @@ body, html {
   background-color: #e0ad29;
 }
 
-/* Checkpoint screen */
+
 .checkpoint-screen {
   display: none;
   position: absolute;
@@ -74,7 +74,6 @@ body, html {
   text-align: center;
 }
 
-/* Game canvas */
 canvas {
   display: none;
   position: absolute;
@@ -83,7 +82,7 @@ canvas {
   background-color: #222;
 }
 
-/* Responsive typography */
+
 @media (max-width: 600px) {
   .main-title {
     font-size: 2rem;
