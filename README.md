@@ -1,4 +1,4 @@
-# 🕹️ freeCodeCamp Code Warrior - Platformer Game
+# 🕹️ Code Warrior - Platformer Game
 
 A beginner-friendly 2D platformer game built using JavaScript and HTML5 Canvas. This project is part of freeCodeCamp's Object-Oriented Programming (OOP) curriculum, where you learn intermediate OOP concepts by creating a game from scratch.
 
